@@ -8,13 +8,13 @@ Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `REA
 
 <img src="https://media.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e47ab0jpegv6bb1ldnjz2v8vcqe1cfhhwiz6dnk26vi&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">&nbsp;***About me***
 
-Soy estudiante apasionado de programación con experiencia en **Python**, **JavaScript**, **HTML** y **CSS**. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
-* **Estoy interesado en el desarrollo web, el desarrollo de aplicaciones móviles y el marketing digital.**
+I am a passionate programming student with experience in  **Python**, **JavaScript**, **HTML** and **CSS**. I love learning and creating something new, productive, innovative, and creative.
+* **I am interested in web development, mobile app development, and digital marketing.**
 - 🌱 I’m currently learning ...
   - JavaScript  
-- 👯Estoy deseando colaborar en proyectos de código abierto.
+- 👯 I am eager to collaborate on open-source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 📖 Me encanta leer sobre casos de misterio y suspenso  , 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📖 I love reading about mystery and suspense cases.  , 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="https://github.com/Nezuko47748"> brayan25nino@gmail.com </a>
 **GitHub:** [Nezuko47748](https://github.com/Nezuko47748)
 
